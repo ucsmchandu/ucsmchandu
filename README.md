@@ -90,16 +90,18 @@ Looking_for: Collaborators on Taskopia
 ## 📊 GitHub Insights
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ucsmchandu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A8D08D&icon_color=A8D08D&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ucsmchandu&hide_border=true&background=0D1117&ring=A8D08D&fire=A8D08D&currStreakLabel=A8D08D" width="49%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucsmchandu&layout=compact&hide_border=true&bg_color=0D1117&title_color=A8D08D&text_color=c9d1d9" width="50%"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=ucsmchandu&show_icons=true&hide_border=true&bg_color=1F4E3D&title_color=A8D08D&icon_color=A8D08D&text_color=ffffff&border_radius=10&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ucsmchandu&hide_border=true&background=1F4E3D&ring=A8D08D&fire=A8D08D&currStreakLabel=A8D08D&stroke=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff&sideNums=ffffff&border_radius=10" width="49%"/>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ucsmchandu&hide_border=true&bg_color=0D1117&color=A8D08D&line=A8D08D&point=ffffff"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ucsmchandu&layout=compact&hide_border=true&bg_color=1F4E3D&title_color=A8D08D&text_color=ffffff&border_radius=10" width="50%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ucsmchandu&hide_border=true&bg_color=1F4E3D&color=A8D08D&line=A8D08D&point=ffffff&area=true&area_color=A8D08D&title_color=A8D08D&text_color=ffffff" width="80%"/>
+
 </div>
 
 <br/>
