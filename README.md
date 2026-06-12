@@ -41,7 +41,7 @@ Stack:
   - Node.js / Express
   - MongoDB / MySQL
   - Tailwind CSS
-Status: Building Skilcenta 🌱
+Status: Building 🌱
 Looking_for: Collaborators on Taskopia
 ```
 
