@@ -20,8 +20,6 @@
 
 ### 📌 At a Glance
 
-🔭&nbsp; Currently building **Skilcenta**
-
 👯&nbsp; Open to collaborate on **Taskopia**
 
 🌱&nbsp; Sharpening skills in React, Node.js & System Design
