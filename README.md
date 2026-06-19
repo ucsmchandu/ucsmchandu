@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E3D,100:8BAE4A&height=180&section=header&text=CHANDRA%20SAI%20MAHESH&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A8D08D&center=true&vCenter=true&width=600&lines=Currently+Building+Skilcenta+%F0%9F%8C%B1;Open+to+Collaborate+on+Taskopia;MERN+Stack+Developer;Clean+Code+%7C+Clean+UI"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A8D08D&center=true&vCenter=true&width=600&lines=Open+to+Collaborate+on+Taskopia;MERN+Stack+Developer;Clean+Code+%7C+Clean+UI"/>
 
 <br/>
 
