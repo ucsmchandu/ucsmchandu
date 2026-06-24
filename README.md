@@ -28,10 +28,8 @@
 {
   "name"     : "Chandra Sai Mahesh",
   "role"     : "Full Stack Web Developer",
-  "location" : "Hyderabad, India",
   "stack"    : ["React", "Node.js", "Express", "MongoDB", "MySQL"],
   "collab"   : "Open to collaborate on Taskopia 🚀",
-  "learning" : ["React patterns", "System Design", "Node.js internals"],
   "status"   : "building 🌱"
 }
 ```
